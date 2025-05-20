@@ -21,7 +21,7 @@ const ProfilePage = () => {
     }
   }
   return (
-    <div className="lg:h-screen sm:h-full pt-20">
+    <div className="h-screen pt-20">
       <div className="max-w-2xl mx-auto p-4 p-y-8">
         <div className="bg-base-300 rounded-xl p-6 space-y-8">
           <div className="text-center">
